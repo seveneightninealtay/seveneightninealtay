@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @altayabdiev
 - 👀 I’m interested in skiing
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on $
+- 💞️ I’m looking to collaborate on gamedevelopment
 - 📫 How to reach me insta@789altay
 
 <!---
