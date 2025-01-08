@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @altayabdiev 
+- 👋 Hi, I’m Altay Abdiev 
 - 🌱 I’m currently learning Java Script
 - 📫 Looking for friends for more EXP
 
