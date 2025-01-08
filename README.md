@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @altayabdiev
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning !C# - Python*
-- 📫 How to reach me insta@789altay
+- 👋 Hi, I’m @altayabdiev 
+- 🌱 I’m currently learning Java Script
+- 📫 Looking for friends for more EXP
 
 <!---
 seveneightninealtay/seveneightninealtay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
